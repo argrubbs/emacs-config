@@ -1,0 +1,16 @@
+/home/adam/.config/emacs/config.org
+/home/adam/.config/emacs/#config.org#
+/sudo:root@localhost:/home/adam/dev/ansible_desktop/main.yml
+/tmp/#!sudo:root@localhost:!home!adam!dev!ansible_desktop!main.yml#
+/sudo:root@localhost:/etc/pacman.conf
+/tmp/#!sudo:root@localhost:!etc!pacman.conf#
+/home/adam/testfile
+/home/adam/#testfile#
+/home/adam/dev/nvim-config/init.lua
+/home/adam/dev/nvim-config/#init.lua#
+/home/adam/.config/emacs/early-init.el
+/home/adam/.config/emacs/#early-init.el#
+/home/adam/.config/emacs/init.el
+/home/adam/.config/emacs/#init.el#
+/home/adam/.config/emacs/config.el
+/home/adam/.config/emacs/#config.el#

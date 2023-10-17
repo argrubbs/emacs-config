@@ -1,0 +1,1 @@
+/home/adam/.config/emacs/elpaca/repos/emacs-dashboard/.dir-locals.el

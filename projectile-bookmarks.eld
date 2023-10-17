@@ -1,0 +1,1 @@
+("~/dev/" "~/dev/ansible_desktop/" "~/dev/nvim-config/")

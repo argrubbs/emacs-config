@@ -1,0 +1,14 @@
+ls
+clear
+eixt
+exit
+ls
+clear
+ls
+clear
+ls
+cat cat
+echo "cat"
+echo $TERM
+echo $PATH
+exit
